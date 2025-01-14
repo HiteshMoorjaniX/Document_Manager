@@ -1,26 +1,23 @@
-# Node.js
-node_modules/
+# Node.js modules
+/Document_Manager_API/node_modules/
 
-# macOS system files
-.DS_Store
+# Compiled output
+/Document_Manager_API/dist/
+/Document_Manager_API/build/
+
+# TypeScript build info files
+*.tsbuildinfo
+..
+
+# Logs
+*.log
+npm-debug.log*
 
 # Environment files
 .env
 
-# IDE-specific files
+# VSCode settings
 .vscode/
-.idea/
 
-# Log files
-*.log
-
-# Backup files
-*.bak
-*.swp
-
-# Git directories (Git itself should not be added)
-.git/
-
-# Exclude the `dist` or `build` directories (if any)
-dist/
-build/
+# Mac OS Finder files
+.DS_Store
