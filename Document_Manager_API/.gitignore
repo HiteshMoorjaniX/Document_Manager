@@ -1,0 +1,5 @@
+# Ignore specific API-related files
+node_modules/
+dist/
+*.log
+*.env
