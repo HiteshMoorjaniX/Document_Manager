@@ -1,0 +1,23 @@
+# Node.js modules
+Document_Manager_API/node_modules/
+
+# Compiled output
+Document_Manager_API/dist/
+Document_Manager_API/build/
+
+# TypeScript build info files
+*.tsbuildinfo
+*...
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# VSCode settings
+.vscode/
+
+# Mac OS Finder files
+.DS_Store
