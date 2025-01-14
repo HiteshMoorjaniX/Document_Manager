@@ -7,7 +7,7 @@ Document_Manager_API/build/
 
 # TypeScript build info files
 *.tsbuildinfo
-*...
+Document_Manager_API/..
 
 # Logs
 *.log
