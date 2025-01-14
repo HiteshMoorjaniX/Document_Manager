@@ -10,14 +10,14 @@
 ..
 
 # Logs
-*.log
-npm-debug.log*
+/Document_Manager_API/*.log
+/Document_Manager_API/npm-debug.log*
 
 # Environment files
-.env
+/Document_Manager_API/.env
 
 # VSCode settings
 .vscode/
 
 # Mac OS Finder files
-.DS_Store
+/Document_Manager_API/.DS_Store
